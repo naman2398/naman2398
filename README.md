@@ -1,26 +1,26 @@
 
-# Hi 👋, I'm Naman
-[images/similarweb-data.gif]
+# Hi, I'm Naman
+![image](https://github.com/naman2398/Naman.Portfolio/blob/main/images/similarweb-data.gif)
 
 ### A Data Scientist/AI Engineer passionate about learning and building things
 
-- 🔭 I'm currently working on **building Agentic System functioning as a Linux administrator; integrating LLMOps in RAG pipelines**
+- I'm currently working on **building Agentic System functioning as a Linux administrator; integrating LLMOps in RAG pipelines**
 
-- 🌱 I'm currently learning **MCP, Langfuse, Big Data Technologies**
+- I'm currently learning **MCP, Langfuse, Big Data Technologies**
 
-- 👯 I'm looking to collaborate on **building open-source MCP servers**
+- I'm looking to collaborate on **building open-source MCP servers**
 
-- 🤝 I'm looking for help with **learning Machine Learning System Design, LLMOps, MLOps, Agentic RAG**
+- I'm looking for help with **learning Machine Learning System Design, LLMOps, MLOps, Agentic RAG**
 
-- 💬 Ask me about **Data Science, ML Algorithms, Big Data, LLMs, RAG**
+- Ask me about **Data Science, ML Algorithms, Big Data, LLMs, RAG**
 
-- 📫 How to reach me **naman230598@gmail.com**
+- Reach me **naman230598@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[datascienceportfol.io/namandeep](https://datascienceportfol.io/namandeep)**
+- All of my projects are available at **[datascienceportfol.io/namandeep](https://datascienceportfol.io/namandeep)**
 
-- 📝 I write articles on **[medium.com/@naman23](https://medium.com/@naman23)**
+- I write articles on **[medium.com/@naman23](https://medium.com/@naman23)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1piGpa6ssuZmPRBRIroniVpSs6FeFDJnZ/view?usp=sharing)**
+- Know about my experiences **[Resume](https://drive.google.com/file/d/1piGpa6ssuZmPRBRIroniVpSs6FeFDJnZ/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
