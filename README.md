@@ -1,5 +1,6 @@
 
 # Hi 👋, I'm Naman
+[images/similarweb-data.gif]
 
 ### A Data Scientist/AI Engineer passionate about learning and building things
 
